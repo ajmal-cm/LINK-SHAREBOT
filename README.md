@@ -85,5 +85,5 @@ This bot was made possible with the help and support of the following individual
 -   **[MASTER](https://t.me/V_Sbotmaker)**
 
 A special thanks to the **[REx BOTs](https://t.me/RexBots_Official)** channel for their inspiration and support!
-A special thanks to the **[REx BOTs](https://t.me/RexBots_Official)** channel for their inspiration and support!
+A special thanks to the **[CodeFlix](https://github.com/Codeflix-Bots/Links-Share-Bot.git)** channel for their inspiration and support!
 ---
