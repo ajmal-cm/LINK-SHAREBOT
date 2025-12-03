@@ -5,8 +5,8 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-BOT_USERNAME = 'REx'
-APP_ID = int(os.environ.get("APP_ID", ""))
+BOT_USERNAME = 'filebot'
+API_ID = int(os.environ.get("API_ID", ""))
 API_HASH = os.environ.get("API_HASH", "")
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 PORT = os.environ.get("PORT", "8080")
